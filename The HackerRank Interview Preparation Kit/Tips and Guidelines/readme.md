@@ -8,5 +8,3 @@
 
 [3 Algorithm Strategies](https://www.youtube.com/watch?v=84UYVCluClQ)
 
-video:
-https://www.youtube.com/watch?v=jxAWQN5t6wg&feature=emb_logo
