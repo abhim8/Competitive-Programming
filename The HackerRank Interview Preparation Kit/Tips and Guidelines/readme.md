@@ -10,6 +10,6 @@
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/watch?v=jxAWQN5t6wg&feature=emb_logo/0.jpg)](http://www.youtube.com/watch?v=jxAWQN5t6wg&feature=emb_logo)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=jxAWQN5t6wg&feature=emb_logo
-" target="_blank"><img src="http://img.youtube.com/vi/jxAWQN5t6wg&feature=emb_logo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jxAWQN5t6wg&feature
+" target="_blank"><img src="http://img.youtube.com/vi/jxAWQN5t6wg&feature/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
